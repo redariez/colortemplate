@@ -1,0 +1,40 @@
+.con{
+  background-color: #A8D4DD;
+}
+
+.material{
+  padding:200px;
+}
+
+.gn{
+  background-color: #97D0A3;
+}
+
+.rn{
+  background-color: #97D0A3;
+}
+
+.pink{
+  background-color: #DFB4C5;
+}
+
+.card-deck{
+  padding: 200px;
+}
+
+.img-container {
+    text-align: center;
+    color: red;
+}
+
+.blue{
+  background-color: #B3D3E0;
+}
+
+.black{
+  background-color: #0E0E0E;
+}
+
+p{
+  color: white;
+}
